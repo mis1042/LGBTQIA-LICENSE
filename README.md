@@ -1,4 +1,6 @@
 # LGBTQIA-LICENSE
+<a href="https://github.com/mis1042/LGBTQIA-LICENSE/blob/main/README-Chinese.md"> 简体中文 </a>  
+<br>
 An additional open source license dedicated to protecting the rights of LGBTQIA
 We are committed to guaranteeing LGBTQIA's rights and interests by means of license
 
