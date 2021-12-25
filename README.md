@@ -5,7 +5,7 @@ We are committed to guaranteeing LGBTQIA's rights and interests by means of lice
 ## Use and modify this additional license
 If you would like to use this additional license in your project
 First of all, thank you very much for your support to the LGBTQIA community!  
-You just need to specify which license the add-on license is based on and fill in <YEAR> <COPYRIGHT HOLDER>.
+You just need to specify which license the add-on license is based on and fill in YEAR and COPYRIGHT HOLDER
 
 You can modify this additional license as much as you want, but only if the requirements of the license do not violate the LGBTQIA-friendly principles
 
